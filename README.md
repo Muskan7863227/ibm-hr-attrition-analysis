@@ -14,9 +14,9 @@ The analysis focuses on these questions:
 The goal is to provide HR with useful insights that can guide further investigation and employee-retention planning.
 
 ## Dataset and Data Preparation
-## Dataset: IBM HR Analytics Employee Attrition & Performance
+* Dataset: IBM HR Analytics Employee Attrition & Performance
 
-## Tool: Microsoft Excel
+* Tool: Microsoft Excel
 ## Data Preparation
 The IBM HR dataset contained 1,470 employee records. I checked the data for duplicate employee numbers, missing values, data types and category 
 consistency before beginning the analysis.
@@ -73,8 +73,8 @@ The dashboard summarizes workforce metrics and allows users to explore attrition
 ## Project Files 
 * IBM_HR_Attrition_Analysis.xlsx  --
   Workbook containing the original data, cleaned data, calculations, PivotTables, dashboard and insights
-* dashboard.png --
-  Screenshot of the final Excel dashboard.
+* Project Dashboard:
+  ![Dashboard Screenshot](dashboard.png)
 
   ## dataset
   Dataset link:
